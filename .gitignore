@@ -1,0 +1,5 @@
+# Ignore jar file (too big)
+openapi-generator-cli.jar
+
+# Ignore MacOS files
+.DS_Store
